@@ -39,8 +39,8 @@ Explore the dashboard using the built-in filters and slicers
 
 📸 Dashboard Preview
 
-<img width="551" height="509" alt="image" src="https://github.com/user-attachments/assets/9f9fa9f7-4097-4d4b-9fc8-ed5b7c1465db" />
-<img width="549" height="494" alt="image" src="https://github.com/user-attachments/assets/9f800221-5442-422f-bda2-3cdbe6937e3a" />
+<img width="549" height="509" alt="image" src="https://github.com/user-attachments/assets/9f9fa9f7-4097-4d4b-9fc8-ed5b7c1465db" />
+<img width="549" height="509" alt="image" src="https://github.com/user-attachments/assets/9f800221-5442-422f-bda2-3cdbe6937e3a" />
 <img width="549" height="509" alt="image" src="https://github.com/user-attachments/assets/d458cde4-25f4-4596-b425-f564e5a17294" />
 
 
